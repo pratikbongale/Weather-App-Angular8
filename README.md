@@ -3,7 +3,7 @@ A single page application build with Angular 8 to display weather details for a 
 
 I used the [Weatherstack API](https://weatherstack.com) to fetch weather data using Http.
 
-![Home Page](http://www.github.com/weather/src/assets/home_page.png)
+![Home Page](https://github.com/pratikbongale/Weather-App-Angular8/blob/master/src/assets/home_page.png)
 
 References:
 [Weather App Blog](https://www.digitalocean.com/community/tutorials/how-to-build-a-weather-app-with-angular-bootstrap-and-the-apixu-api) - Detailed blog on how to create a simple weather app.
