@@ -20,4 +20,4 @@ By default, Angular apps are hosted at http://localhost:4200/.
 
 The app will automatically reload if you change any of the source files.
 
-**Note:** Before you run the app you need to enter a valid API_KEY. Please create a free account with https://weatherstack.com, grab the API key from your dashboard and plug it into [scr/app/apixu.service.ts](./blob/master/src/app/apixu.service.ts) file.
+**Note:** Before you run the app you need to enter a valid API_KEY. Please create a free account with https://weatherstack.com, grab the API key from your dashboard and plug it into [scr/app/apixu.service.ts](src/app/apixu.service.ts) file.
